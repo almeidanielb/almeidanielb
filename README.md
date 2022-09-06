@@ -2,7 +2,7 @@
 
 ## Olá! Bem vindo ao meu perfil! 😄 <br>
 
-### Sou um aspirante à desenvolvedor Front-End, focado em aprender o máximo de minha capacidade para proporcionar o melhor no mercado de trabalho.
+Sou um aspirante à desenvolvedor Front-End, focado em aprender o máximo de minha capacidade para proporcionar o melhor no mercado de trabalho.
 
 <br>
 
