@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2> Olá! Bem vindo ao meu perfil! 😄 </h2> <h3> Sou um aspirante à desenvolvedor Front-End, focado em aprender o máximo de minha capacidade para proporcionar o melhor no mercado de trabalho. </h3>
+<h2> Olá! Bem vindo ao meu perfil! 😄 </h2> <h3> Sou um aspirante à desenvolvedor Front-End, focado em aprender o máximo de minha capacidade para proporcionar o melhor no mercado de trabalho. 👨‍💻 </h3>
 
 ##
 
