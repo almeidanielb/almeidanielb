@@ -1,8 +1,8 @@
 <div align="center">
 
-### Olá! Bem vindo ao meu perfil! 😄 <br>
+## Olá! Bem vindo ao meu perfil! 😄 <br>
 
-#### Sou um aspirante à desenvolvedor Front-End, focado em aprender o máximo de minha capacidade para proporcionar o melhor no mercado de trabalho.
+### Sou um aspirante à desenvolvedor Front-End, focado em aprender o máximo de minha capacidade para proporcionar o melhor no mercado de trabalho.
 
 <br>
 
@@ -10,8 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/almeidanielb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidanielb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidanielb&layout=compact&langs_count=7&theme=dark"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidanielb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <br> 
+  
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidanielb&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
 <div style="display: inline_block" align="center"><br>
